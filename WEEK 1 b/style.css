@@ -195,19 +195,19 @@ html{
     padding: 0 4rem;
 }
 .quality-content h1{
-    color: var(--btn-color);
+    color: #e58f00;;
     font-size: 40px;
     margin-bottom: 15px;
 }
 .quality-content p{
-    color: var(--about-sec);
-    font-size: 1.5rem;
+    color: #e58f00;;
+    font-size: 10px;
     line-height: 30px;
 }
-.qulity-image{
+.quality-image{
     width: 100%;
 }
-.qulity-image img{
+.quality-image img{
     width: 100%;
     object-fit: cover;
 }
